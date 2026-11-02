@@ -1,0 +1,18 @@
+[
+ {"q": "How many days before do I need to order a custom cake?", "section": "Orders and lead time"},
+ {"q": "Can I order a wedding cake a week ahead?", "section": "Orders and lead time"},
+ {"q": "How much is a Napoleon cake per kilo?", "section": "Prices"},
+ {"q": "What does a box of cupcakes cost?", "section": "Prices"},
+ {"q": "Do I have to pay a deposit?", "section": "Payment and deposit"},
+ {"q": "Can I pay with bitcoin?", "section": "Payment and deposit"},
+ {"q": "I want to cancel my order the day before pickup, do I get my deposit back?", "section": "Cancellations and changes"},
+ {"q": "Until when can I change the cake design?", "section": "Cancellations and changes"},
+ {"q": "Do you deliver on Sunday?", "section": "Delivery"},
+ {"q": "How much does delivery cost?", "section": "Delivery"},
+ {"q": "What time do you close on Saturday?", "section": "Opening hours"},
+ {"q": "Are you open on public holidays?", "section": "Opening hours"},
+ {"q": "Do you have gluten free cakes?", "section": "Allergens and dietary options"},
+ {"q": "Is there a vegan option?", "section": "Allergens and dietary options"},
+ {"q": "How long can I keep a cream cake in the fridge?", "section": "Storage and freshness"},
+ {"q": "The cake I received is not what I ordered, what should I do?", "section": "Complaints and refunds"}
+]
